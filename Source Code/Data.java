@@ -12,10 +12,10 @@ public class Data {
     public boolean horizontal;
     public int i;
     
-    public Data(int i, boolean horizontal, double tasosTipos){
+    public Data(int i, boolean horizontal, double probability){
         this.i = i;
         this.horizontal = horizontal;
-        this.probability = tasosTipos;        
+        this.probability = probability;        
     }
     
     @Override
