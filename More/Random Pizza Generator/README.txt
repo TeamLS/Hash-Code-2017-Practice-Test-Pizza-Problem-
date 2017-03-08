@@ -1,0 +1,1 @@
+A software that generates a random pizza according to inputs given by the user, then solves it using our SDVD algorithm and finally it prints an image showing the pizza and the slices that were chosen (yellow rectangles).
