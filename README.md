@@ -9,5 +9,6 @@ For the explanation of the algorithm (in Greek) see the [Algorithm Explained.pdf
 
 <p align="center">
   <img src="https://github.com/Thanasis1101/Hash-Code-2017-Practice-Test-Pizza-Problem-/blob/master/TeamLS%20Logo.png?raw=true">
-  <br>Created by <a href="https://www.facebook.com/theteamls/" target="_blank">TeamLS</a>
+  <br>
+  Created by <a href="https://www.facebook.com/theteamls/" target="blank">TeamLS</a>
 </p>
